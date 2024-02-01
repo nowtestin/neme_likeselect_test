@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d8b124c547013110621a73d7826d4340" extends="task" label="user_name_like" max_length="40" name="x_846092_neme_like_user_name_like" text_index="true" type="collection">
+        <element label="Name kkk" max_length="32" name="name_kkk" reference="sys_user" reference_qual="nameSTARTSWITH^EQ" reference_qual_condition="nameSTARTSWITH^EQ" type="reference"/>
+    </element>
+</database>

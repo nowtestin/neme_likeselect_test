@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="事業部と氏名あいまい検索">23126cc547013110621a73d7826d4312</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-01 06:28:19</sys_created_on>
+        <sys_id>6b736c0947013110621a73d7826d436c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.事業部と氏名あいまい検索</sys_name>
+        <sys_package display_value="neme_likeselect_test" source="x_846092_neme_like">2d81ec4547013110621a73d7826d43ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="neme_likeselect_test">2d81ec4547013110621a73d7826d43ba</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_6b736c0947013110621a73d7826d436c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-01 06:28:19</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
